@@ -139,7 +139,7 @@ input[type='submit']:hover {
   box-shadow: 0 0px 10px #fa3380;
 }
 
-/*input[type='submit']:disabled {
+input[type='submit']:disabled {
   color: transparent;
   border: 1px solid #999;
   cursor: not-allowed;
@@ -154,7 +154,7 @@ input[type='submit']:hover {
   box-shadow: 0 0px 2px 2px #999;
 }
 
-.containers {
+/*.containers {
   width: 520px;
   margin: 20px auto;
 }
