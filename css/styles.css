@@ -62,7 +62,7 @@ input[type='radio'] {
   letter-spacing: 2px;
 }
 
-/*.agree-btn {
+.agree-btn {
   width: 20px;
   color: #fff;
   cursor: pointer;
@@ -81,7 +81,7 @@ input[type='radio'] {
   box-shadow: 0 0 90px #fa3380;
 }
 
-.agree-btn:hover {
+/*.agree-btn:hover {
   -webkit-box-shadow: 0 0 10px #fa3380;
   box-shadow: 0 0 10px #fa3380;
 }
