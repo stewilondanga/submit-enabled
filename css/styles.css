@@ -49,11 +49,11 @@
   line-height: 25px;
 }
 
-/*input[type='radio'] {
+input[type='radio'] {
   display: none;
 }
 
-.choices {
+/*.choices {
   margin-top: 40px;
 }
 
