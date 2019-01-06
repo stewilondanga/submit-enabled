@@ -109,7 +109,7 @@ input[type='radio'] {
   box-shadow: 0 0 0px deepskyblue;
 }
 
-/*input[type='submit'] {
+input[type='submit'] {
   float: right;
   width: 100px;
   color: transparent;
@@ -131,7 +131,7 @@ input[type='radio'] {
   box-shadow: 0 0 2px 2px #fa3380;
 }
 
-input[type='submit']:hover {
+/*input[type='submit']:hover {
   -webkit-transform: scale(1.1);
   -ms-transform: scale(1.1);
   transform: scale(1.1);
