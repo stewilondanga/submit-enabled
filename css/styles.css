@@ -53,11 +53,11 @@ input[type='radio'] {
   display: none;
 }
 
-/*.choices {
+.choices {
   margin-top: 40px;
 }
 
-.bold-p {
+/*.bold-p {
   font-weight: 500;
   letter-spacing: 2px;
 }
