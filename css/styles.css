@@ -154,12 +154,12 @@ input[type='submit']:disabled {
   box-shadow: 0 0px 2px 2px #999;
 }
 
-/*.containers {
+.containers {
   width: 520px;
   margin: 20px auto;
 }
 
-#contact h1 {
+/*#contact h1 {
   font-family: helvetica;
   font-weight: normal;
   text-align: center;
