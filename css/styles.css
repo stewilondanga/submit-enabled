@@ -104,12 +104,12 @@ input[type='radio'] {
   box-shadow: 0 0 90px deepskyblue;
 }
 
-/*.not-agreeing:hover {
+.not-agreeing:hover {
   -webkit-box-shadow: 0 0 0px deepskyblue;
   box-shadow: 0 0 0px deepskyblue;
 }
 
-input[type='submit'] {
+/*input[type='submit'] {
   float: right;
   width: 100px;
   color: transparent;
